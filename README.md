@@ -98,22 +98,6 @@ Submit issues or pull requests for improvements, especially for remediation logi
 
 ## Changelog
 See [CHANGELOG.md](#changelog) for version history.
-```
-
-**Changes**:
-- Added sections for new features (CLI args, logging, dynamic recommendations, etc.).
-- Updated usage with command-line options and examples.
-- Included logging output (`nuclei_reporter.log`) and dynamic filename format.
-- Clarified optional OpenAI usage.
-
----
-
-### Step 4: Updated Changelog
-
-I’ll append the enhancements to version 2.2, as requested, keeping the version number unchanged:
-
-```markdown
-# Changelog
 
 ## [2.2] - 2025-04-12
 - **Added**: Command-line arguments for input/output paths and OpenAI toggle.
